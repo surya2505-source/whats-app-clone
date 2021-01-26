@@ -15,10 +15,6 @@
 - styled-components
 - material-ui icons
 
-
-## Preview
-- https://whatsapp-web-app.web.app/
-
 ## Devlopment
 
 ```
